@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">每日一车</string>
+    
+    <string name="scan_down">下拉刷新</string>
+    <string name="scan_up">松开刷新</string>
+    <string name="scan_update">正在刷新&#8230;</string>
+    
+	<string name="chinanet_info">中国电信WiFi(ChinaNet)使用说明\n\n提醒：应中国电信相关规定，首次登录需要验证手机号，验证通过之后即可享受免费的WiFi上网服务，感谢您的配合。\n\n1.确保您在ChinaNet覆盖范围内，且信号足够好；\n2.首次连接，填入自己的手机号码进行验证(支持移动、电信、联通所有用户)；\n3.点击提交验证，验证成功后点击首页ChinaNet即可免费一键上网；\n4.免费WiFi服务，我们向您承诺，验证和使用过程中绝不向您收取任何费用，感谢您的支持。</string>
+	<string name="chinanet_info_des">提醒：应中国电信相关规定，首次使用需要验证手机号，完全免费！</string>
+	<string name="about_qq">群:224103301</string>
+	<string name="about_747">747.cn</string>
+	<string name="about_sina">747助手</string>
+	<string name="about_wechat">747助手</string>
+	<string name="gift_info">获取步骤：\n\n1.加入747助手QQ群：224103301；\n\n2.找管理员求超值大礼包兑换码；\n\n3.输入超值大礼包兑换码，立得1000积分。</string>
+	
+	<string name="follow_rule">关注官方微博即可得到10银豆，每用户一次！请勿多次使用，否则进行封号处理。</string>
+	    
+	<string name="weibo_oauth_regiseter">应用授权</string>
+    <string name="website">http://www.shareSDK.cn</string>
+    <string name="weibo_upload_content">分享图片</string>
+    <string name="wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    
+	<string name="sinaweibo">新浪微博</string>
+	<string name="tencentweibo">腾讯微博</string>
+	<string name="qzone">QQ空间</string>
+	<string name="wechat">微信好友</string>
+	<string name="wechatmoments">微信朋友圈</string>
+	<string name="facebook">Facebook</string>
+	<string name="twitter">Twitter</string>
+	<string name="renren">人人网</string>
+	<string name="kaixin">开心网</string>
+	<string name="email">邮件</string>
+	<string name="shortmessage">信息</string>
+	<string name="sohumicroblog">搜狐微博</string>
+	<string name="sohusuishenkan">搜狐随身看</string>
+	<string name="neteasemicroblog">网易微博</string>
+	<string name="douban">豆瓣</string>
+	<string name="youdao">有道云笔记</string>
+	<string name="evernote">印象笔记</string>
+	<string name="linkedin">Linked In</string>
+	<string name="googleplus">Google+</string>
+	<string name="foursquare">FourSquare</string>
+	<string name="qq">QQ</string>
+	<string name="pinterest">Pinterest</string>
+	<string name="flickr">Flickr</string>
+	<string name="tumblr">Tumblr</string>
+	<string name="dropbox">Dropbox</string>
+	
+	<string name="cancel">取消</string>
+    <string name="finish">完成</string>
+    <string name="sharing">分享操作正在后台进行…</string>
+    <string name="share_to">分享到</string>
+	<string name="share">分享</string>
+	<string name="multi_share">图文分享</string>
+	<string name="share_completed">分享成功</string>
+	<string name="share_canceled">分享已取消</string>
+	<string name="select_one_plat_at_least">请选择一个目标平台</string>
+	<string name="list_friends">%s的朋友</string>
+	<string name="share_failed">分享失败</string>
+	
+	<string name="not_yet_authorized">尚未授权</string>
+	
+	<string name="sm_item_fl_weibo">关注新浪微博</string>
+    <string name="sm_item_fl_tc">关注腾讯微博</string>
+</resources>

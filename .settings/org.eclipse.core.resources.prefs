@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/zounikeji/MainApplication.java=UTF-8
+encoding//src/com/zounikeji/adapter/ShareAdapter.java=UTF-8
+encoding//src/com/zounikeji/constant/HelperConstant.java=UTF-8
+encoding//src/com/zounikeji/meiriyiche/MainActivity.java=UTF-8
+encoding//src/com/zounikeji/meiriyiche/TabHolderActivity.java=UTF-8
+encoding//src/com/zounikeji/meiriyiche/TaskActivity.java=UTF-8
+encoding//src/com/zounikeji/service/AppVersionUpdateService.java=UTF-8
+encoding//src/com/zounikeji/service/HelperService.java=UTF-8
+encoding//src/com/zounikeji/util/PhoneInfo.java=UTF-8
+encoding//src/com/zounikeji/widget/DropDownListView.java=UTF-8
+encoding//src/com/zounikeji/widget/MKListView.java=UTF-8
